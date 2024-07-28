@@ -11,7 +11,7 @@ The "squid" serve as the "predators" having varying sizes and colours.
 More vibrant colours are easier for both "fish" and "squids" to see.
 Vibrant colour "fish" allow them to "school" more easily with other "fish".
 Vibrant colour "squid" are easier for "fish" to see and avoid.
-However, the more vibrant the colour the shorter the lifespan of the "fish"/"squid"
+However, the less vibrant (more camoflauged) the colour the shorter the lifespan of the "fish"/"squid"
 
 Squid also have one additional trait other than colour.
 Size, larger squid have larger bodies making it easier to collide/"catch" fish. However, larger bodies move slower.
